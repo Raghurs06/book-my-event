@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/book-my-event/static/css/main.df534957.css",
+    "main.js": "/book-my-event/static/js/main.93320d5c.js",
+    "static/js/453.262f2e4e.chunk.js": "/book-my-event/static/js/453.262f2e4e.chunk.js",
+    "static/media/art-workshop.png": "/book-my-event/static/media/art-workshop.fc30b150a6ab04993cda.png",
+    "static/media/music.jpg": "/book-my-event/static/media/music.645e6585bed60c437882.jpg",
+    "static/media/tech-conference.jpg": "/book-my-event/static/media/tech-conference.fbb605f0d2109016c007.jpg",
+    "static/media/holi-celebration.jpg": "/book-my-event/static/media/holi-celebration.3949ac2c96baca115e74.jpg",
+    "static/media/mainbgphoto.jpg": "/book-my-event/static/media/mainbgphoto.14e2e972d9f9db2aa3ca.jpg",
+    "index.html": "/book-my-event/index.html",
+    "main.df534957.css.map": "/book-my-event/static/css/main.df534957.css.map",
+    "main.93320d5c.js.map": "/book-my-event/static/js/main.93320d5c.js.map",
+    "453.262f2e4e.chunk.js.map": "/book-my-event/static/js/453.262f2e4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df534957.css",
+    "static/js/main.93320d5c.js"
+  ]
+}
