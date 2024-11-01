@@ -14,7 +14,7 @@ export default function Contact() {
             LinkedIn
           </a>
           <a href="mailto:raghursheregra@mail.com" className="btn btn-primary" style={{marginLeft:"1vw"}}>Mail</a>
-          <a href="/" className="btn btn-primary" style={{marginLeft:"1vw"}}>Back to Home Page</a>
+          <a href="/book-my-event" className="btn btn-primary" style={{marginLeft:"1vw"}}>Back to Home Page</a>
         </div>
       </div>
     </>

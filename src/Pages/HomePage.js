@@ -28,7 +28,7 @@ export default function HomePage() {
           >
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/">
+                <Link className="nav-link active" aria-current="page" to="/book-my-event">
                   Home
                 </Link>
               </li>

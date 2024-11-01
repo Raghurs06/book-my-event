@@ -15,7 +15,7 @@ function App() {
       <AuthProvider>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/book-my-event" element={<HomePage />} />
           <Route path="/event/:id" element={<EventDetails />} />
           <Route path="/login" element={<LoginPage />} />
           <Route path="/eventlist" element={<EventList />} />
